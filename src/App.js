@@ -2,7 +2,6 @@
 import './App.css';
 import téléchargement from './imgs/téléchargement.jpg'
 import './style.css';
-import téléchargement from '../img/nature1.jpg'
 import myvideo from './myVideo.mp4'
 
 
